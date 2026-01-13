@@ -11,8 +11,6 @@ https://gamerchallenges.vercel.app
 
 GamerChallenges est une plateforme communautaire permettant aux gamers de proposer, relever et partager des défis sur leurs jeux vidéo préférés. Le projet a été réalisé dans le cadre de l'obtention du Titre Professionnel de Développeur Web et Web Mobile.
 ## 🌐 Liens du Projet
-- **🚀 Application en ligne (Frontend) :** [https://gamerchallenges.vercel.app](https://gamerchallenges.vercel.app)
-- **⚙️ API Backend :** `https://gamerchallenges-backend.up.railway.app`
 - **📂 Repository GitHub :** `https://github.com/YounesBigardene/gamerchallenges`
 ## 🎯 Fonctionnalités
 ### MVP (Minimum Viable Product)
@@ -63,9 +61,6 @@ GamerChallenges est une plateforme communautaire permettant aux gamers de propos
 
     Versionning : Git + GitHub
 
-    Déploiement : Vercel (Frontend) + Railway (Backend)
-
-    API Externe: `https://gamerchallenges-backend.up.railway.app'
 
 
 
@@ -193,8 +188,6 @@ CREATE TABLE challenges (
 | Sécurité (XSS, SQL)  | ✅ JWT, Validation            |
 | Versionning Git       | ✅ GitHub                      |
 | Déploiement           | ✅ Procédure documentée       |
-| API externe           | ✅ gamerchallenges-production.up.railway.app             |
-| SEO                   | ✅ Métadonnées, URLs sémantiques |
 
 ### 🏆 Fonctionnalités Avancées Implémentées
 
