@@ -57,7 +57,7 @@ GamerChallenges est une plateforme communautaire permettant aux gamers de propos
 
     Validation : Express Validator
 
-    - 🖥️ Repository GitHub (Backend) : `https://github.com/ton-username/gamerchallenges-backend`
+    - 🖥️ Repository GitHub (Backend) : `https://github.com/younesbgd93/Gamerchallenges/gamerchallenges-backend
 
 ### Outils & Services
 
