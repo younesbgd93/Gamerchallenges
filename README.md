@@ -5,7 +5,6 @@ Développeur : Younes Bigardene
 Projet : Titre Professionnel - Développeur Web et Web Mobile
 Date : 2025
 
-https://gamerchallenges.vercel.app
 
 ## 📋 Description
 
